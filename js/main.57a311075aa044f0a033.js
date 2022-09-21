@@ -10636,7 +10636,7 @@ ProductForm.propTypes = {
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/";
+/******/ 		__webpack_require__.p = "/takka-smart/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
@@ -10741,4 +10741,4 @@ ProductForm.propTypes = {
 /******/ 	
 /******/ })()
 ;
-//# sourceMappingURL=main.fb2b6dd8be7cfa710ead.js.map
+//# sourceMappingURL=main.57a311075aa044f0a033.js.map
